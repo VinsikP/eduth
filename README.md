@@ -5,7 +5,7 @@ Tohle je můjprvní zápis do tohoto souboru.
 ### třetí nadpis
 #### Čtvrtý nadpis
 ##### 5
-###### 6
+###### 6 - nadpis
 
 **tučný text**
 * seznam
