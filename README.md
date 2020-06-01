@@ -1,18 +1,25 @@
 # Eduth
-Tohle je můjprvní zápis do tohoto souboru.
 
-## Druhz
-### třetí nadpis
-#### Čtvrtý nadpis
-##### 5
-###### 6 - nadpis
+> ✨ Bootstrapped with Create Snowpack App (CSA).
 
-**tučný text**
-* seznam
-* růyných
-* věcí
+## Dostupné příkazy
 
-1) ahoj
-1) jak se máš
-1) **tytyty**
+### yarn start
 
+Spustí aplikaci ve vývojářském režimu
+Otevři http://localhost:8080 pro zobrazení v prohlížeči
+
+Stránka se načte, pokud uděláš nějakou změnu
+Všechny chyby budou vypsané v konzoli
+
+### yarn test
+
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+### yarn run build
+
+Builds a static copy of yor site to the `build/` folder.
+Your app is ready to be deployed!
+
+**For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" or "@snowpack/plugin-parcel" to your `snowpack.config.json` config file.
